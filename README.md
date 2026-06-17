@@ -26,4 +26,4 @@ gcc pa3-hash-table/main.c -o pa3 && ./pa3 words.txt test.txt add
 (exact CLI args inferred from each `main()` — double-check against your own usage notes if these don't match.)
 
 ---
-*Completed as coursework for CS-260 at Drexel University; shared for portfolio purposes. Assignment PDFs, lecture slides, and the auto-grading scripts provided with each assignment have been removed — this contains only my own implementation. Two other assignments from this course (Huffman coding, a sliding-puzzle solver) were left unfinished and are intentionally not included.*
+*Completed as coursework for CS-260 at Drexel University; shared for portfolio purposes. Assignment PDFs, lecture slides, and the auto-grading scripts provided with each assignment have been removed — this contains only my own implementation.*
